@@ -1,0 +1,39 @@
+{
+  "name": "nexus",
+  "displayName": "Nexus",
+  "description": "Nexus theme for VS Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "author": {
+    "name": "Franz Gollhammer"
+  },
+  "publisher": "franzgollhammer",
+  "keywords": [
+    "Theme",
+    "Dark",
+    "Nexus",
+    "Flat",
+    "Modern"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nexus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nexus-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish": "npm run upgrade-package-version && npm run sort-package && npm run package && vsce publish",
+    "sort-package": "npx sort-package-json ",
+    "upgrade-package-version": "node ./scripts/upgrade-package-version.js"
+  }
+}

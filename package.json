@@ -20,6 +20,10 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franzgollhammer/nexus"
+  },
   "license": "MIT",
   "contributes": {
     "themes": [

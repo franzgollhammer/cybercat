@@ -1,7 +1,7 @@
 {
   "name": "nexus-theme",
   "displayName": "Nexus Prisma",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Nexus theme for VS Code",
   "categories": [
     "Themes"

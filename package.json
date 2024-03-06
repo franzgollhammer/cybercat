@@ -1,14 +1,16 @@
 {
-  "name": "nexus-theme",
-  "displayName": "Nexus Prisma",
-  "version": "0.0.13",
-  "description": "Nexus theme for VS Code",
+  "name": "cyberslug",
+  "displayName": "Cyberslug",
+  "version": "0.0.27",
+  "description": "Cyberslug theme",
   "categories": [
     "Themes"
   ],
   "keywords": [
     "Theme",
     "Dark",
+    "Cyberslug",
+    "Cyberbug",
     "Nexus",
     "Flat",
     "Modern",
@@ -16,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/franzgollhammer/nexus"
+    "url": "https://github.com/franzgollhammer/cyberslug"
   },
   "license": "MIT",
   "author": {
@@ -32,9 +34,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nexus",
+        "label": "Cyberslug",
         "uiTheme": "vs-dark",
-        "path": "./themes/Nexus-color-theme.json"
+        "path": "./themes/Cyberslug-color-theme.json"
+      },
+      {
+        "label": "Cyberslug Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberslug Black-color-theme.json"
+      },
+      {
+        "label": "Cyberbug",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberbug-color-theme.json"
+      },
+      {
+        "label": "Cyberbug Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberbug Black-color-theme.json"
       }
     ]
   },

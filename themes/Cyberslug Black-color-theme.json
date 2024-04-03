@@ -1,8 +1,8 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-  "name": "Cyberslug",
-  "semanticHighlighting": true,
 	"type": "dark",
+  "name": "Cyberslug Black",
+  "semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBorder": "#0078d4",

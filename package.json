@@ -1,7 +1,7 @@
 {
   "name": "cyberslug",
   "displayName": "Cyberslug",
-  "version": "0.0.31",
+  "version": "0.0.56",
   "description": "Cyberslug Theme 🐌",
   "categories": [
     "Themes"
@@ -10,11 +10,9 @@
     "Theme",
     "Dark",
     "Cyberslug",
-    "Cyberbug",
-    "Nexus",
-    "Flat",
     "Modern",
-    "Prisma"
+    "vivid",
+    "Node.js"
   ],
   "repository": {
     "type": "git",
@@ -26,8 +24,9 @@
   },
   "publisher": "franzgollhammer",
   "scripts": {
-    "package": "vsce package",
-    "publish": "npm run upgrade-package-version && npm run sort-package && npm run package && vsce publish",
+    "package": "npx @vscode/vsce package",
+    "publish": "npx @vscode/vsce publish",
+    "release": "npm run upgrade-package-version && npm run sort-package && npm run package && npm run publish",
     "sort-package": "npx sort-package-json ",
     "upgrade-package-version": "node ./scripts/upgrade-package-version.js"
   },

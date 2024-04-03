@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
-	"name": "Nexus Dark Modern",
+	"name": "Cyberslug",
   "semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
@@ -1317,7 +1317,8 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#a5d5fe"
+				"foreground": "#a5d5fe",
+				"fontStyle": "bold"
 			}
 		},
 		{

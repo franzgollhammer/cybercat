@@ -1,7 +1,7 @@
 {
   "name": "cyberslug",
   "displayName": "Cyberslug",
-  "version": "0.0.56",
+  "version": "0.0.57",
   "description": "Cyberslug Theme 🐌",
   "categories": [
     "Themes"
@@ -10,6 +10,7 @@
     "Theme",
     "Dark",
     "Cyberslug",
+    "Cybercat",
     "Modern",
     "vivid",
     "Node.js"
@@ -33,14 +34,14 @@
   "contributes": {
     "themes": [
       {
+        "label": "Cybercat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cybercat-color-theme.json"
+      },
+      {
         "label": "Cyberslug",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberslug-color-theme.json"
-      },
-      {
-        "label": "Cyberslug Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Cyberslug Black-color-theme.json"
       }
     ]
   },

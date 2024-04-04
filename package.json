@@ -1,7 +1,7 @@
 {
   "name": "cyberslug",
   "displayName": "Cyberslug",
-  "version": "0.0.57",
+  "version": "0.0.59",
   "description": "Cyberslug Theme 🐌",
   "categories": [
     "Themes"
@@ -39,9 +39,35 @@
         "path": "./themes/Cybercat-color-theme.json"
       },
       {
+        "label": "Cybercat Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cybercat Black-color-theme.json"
+      },
+      {
         "label": "Cyberslug",
+        "terminal.ansiBlack": "#6E6C7E",
+        "terminal.ansiRed": "#F28FAD",
+        "terminal.ansiGreen": "#ABE9B3",
+        "terminal.ansiYellow": "#FAE3B0",
+        "terminal.ansiBlue": "#96CDFB",
+        "terminal.ansiMagenta": "#F5C2E7",
+        "terminal.ansiCyan": "#89DCEB",
+        "terminal.ansiWhite": "#C3BAC6",
+        "terminal.ansiBrightBlack": "#988BA2",
+        "terminal.ansiBrightRed": "#F28FAD",
+        "terminal.ansiBrightGreen": "#ABE9B3",
+        "terminal.ansiBrightYellow": "#FAE3B0",
+        "terminal.ansiBrightBlue": "#96CDFB",
+        "terminal.ansiBrightMagenta": "#F5C2E7",
+        "terminal.ansiBrightCyan": "#89DCEB",
+        "terminal.ansiBrightWhite": "#D9E0EE",
         "uiTheme": "vs-dark",
         "path": "./themes/Cyberslug-color-theme.json"
+      },
+      {
+        "label": "Cyberslug Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberslug Black-color-theme.json"
       }
     ]
   },

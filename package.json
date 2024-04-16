@@ -1,23 +1,23 @@
 {
-  "name": "cyberslug",
-  "displayName": "Cyberslug",
-  "version": "0.0.72",
-  "description": "Cyberslug Theme 🐌",
+  "name": "cybercat",
+  "displayName": "Cybercat",
+  "version": "0.0.77",
+  "description": "Cybercat Theme 🐌",
   "categories": [
     "Themes"
   ],
   "keywords": [
     "Theme",
     "Dark",
-    "Cyberslug",
     "Cybercat",
+    "Cyberslug",
     "Modern",
     "vivid",
     "Node.js"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/franzgollhammer/cyberslug"
+    "url": "https://github.com/franzgollhammer/cybercat"
   },
   "license": "MIT",
   "author": {

@@ -2417,7 +2417,7 @@
 		{
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"foreground": "#7F848E",
+				"foreground": "#2ece76",
 				"fontStyle": "italic"
 			}
 		},

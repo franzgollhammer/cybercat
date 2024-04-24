@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
-  "name": "Cyberslug Black",
+  "name": "Cybercat Black",
   "semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
@@ -1335,19 +1335,19 @@
 		{
 			"scope": "entity.name.type.namespace",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#fefdc2"
 			}
 		},
 		{
 			"scope": "support.class, entity.name.type.class",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#fefdc2"
 			}
 		},
 		{
 			"scope": "entity.name.class.identifier.namespace.type",
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#fefdc2"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 				"variable.other.class.ts"
 			],
 			"settings": {
-				"foreground": "#E5C07B"
+				"foreground": "#fefdc2"
 			}
 		},
 		{

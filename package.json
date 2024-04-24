@@ -1,8 +1,8 @@
 {
   "name": "cybercat",
   "displayName": "Cybercat",
-  "version": "0.0.77",
-  "description": "Cybercat Theme 🐌",
+  "version": "0.0.82",
+  "description": "Cybercat Theme 🐱",
   "categories": [
     "Themes"
   ],
@@ -44,14 +44,14 @@
         "path": "./themes/Cybercat Black-color-theme.json"
       },
       {
-        "label": "Cyberslug",
+        "label": "Cybercat Pale",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cyberslug-color-theme.json"
+        "path": "./themes/Cybercat Pale-color-theme.json"
       },
       {
-        "label": "Cyberslug Black",
+        "label": "Cybercat Pale Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Cyberslug Black-color-theme.json"
+        "path": "./themes/Cybercat Pale Black-color-theme.json"
       }
     ]
   },

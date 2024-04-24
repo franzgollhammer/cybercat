@@ -1,7 +1,7 @@
 {
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
-	"name": "Cyberslug",
+	"name": "Cybercat Pale",
   "semanticHighlighting": true,
 	"colors": {
 		"actionBar.toggledBackground": "#383a49",
